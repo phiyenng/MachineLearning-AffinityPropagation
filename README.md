@@ -7,6 +7,7 @@ This is a final project for the Machine Learning course, focusing on customer se
 In a highly competitive market, especially in the food and service industry, understanding and maintaining strong relationships with customers is crucial for business growth. One of the widely used methods for customer segmentation is the RFM (Recency, Frequency, Monetary) model, which analyzes purchasing behavior based on historical transaction data.
 
 This project applies Affinity Propagation to segment customers using data from the RMIT Business Analytics Champion (RBAC) 2023, provided by Pizza Hut Vietnam. The goal is to optimize clustering results, identify key customer groups, and propose data-driven business strategies to enhance customer experience.
+
 ------------------------  
 
 ## Data Source  
