@@ -1,15 +1,19 @@
 # Machine Learning - Affinity Propagation Algorithm
 ------------------------  
 
-## What is this project?  
-This is a final project for the Data Visualization course, focusing on analyze and visualize Europe hotel reviews dataset from Kaggle. Our project focuses on using visual charts to provide hotel recommendations for Asian visitors traveling to Europe.  
+## What is this project?
+This is a final project for the Machine Learning course, focusing on customer segmentation using the Affinity Propagation algorithm.  
+
+In a highly competitive market, especially in the food and service industry, understanding and maintaining strong relationships with customers is crucial for business growth. One of the widely used methods for customer segmentation is the RFM (Recency, Frequency, Monetary) model, which analyzes purchasing behavior based on historical transaction data.
+
+This project applies Affinity Propagation to segment customers using data from the RMIT Business Analytics Champion (RBAC) 2023, provided by Pizza Hut Vietnam. The goal is to optimize clustering results, identify key customer groups, and propose data-driven business strategies to enhance customer experience.
 ------------------------  
 
 ## Data Source  
-- **Data Origin**: The dataset was sourced from Kaggle - [515K Hotel Reviews Data in Europe](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe/data)
+- **Data Origin**: The Pizza Hut's real dataset was sourced from RMIT Business Analytics Champion 2023 Contest
 - **Files**:  
    - `Hotel_Reviews.csv`: Raw hotel reviews data. (You can download in the hyperlink) 
-   - `DV_GROUP10_FINALCODE.ipynb`: Source code.
+   - `ML_GROUP10_FINALCODE.ipynb`: Source code.
   
 ---
 
@@ -53,5 +57,5 @@ import matplotlib.pyplot as plt
 - Nguyễn Phúc Minh Trâm
 
 ### Course Information:
-- Course: Data Visualization
+- Course: Machine Learning
 - Professor: PhD. Nguyễn An Tế
