@@ -13,7 +13,7 @@ This project applies Affinity Propagation to segment customers using data from t
 ## Data Source  
 - **Data Origin**: The Pizza Hut's real dataset was sourced from RMIT Business Analytics Champion 2023 Contest
 - **Files**:  
-   - `Hotel_Reviews.csv`: Raw hotel reviews data. (You can download in the hyperlink) 
+   - `PizzaHut_Dataset.csv`: Raw hotel reviews data. (You can download in the hyperlink) 
    - `ML_GROUP10_FINALCODE.ipynb`: Source code.
   
 ---
